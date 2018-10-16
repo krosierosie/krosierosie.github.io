@@ -11,3 +11,10 @@ collections:
   portfolio:
     title: portfolio
     output: true
+
+
+defaults:
+    scope:
+      type: "portfolio"
+    values:
+      Teaser image:

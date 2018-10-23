@@ -1,5 +1,5 @@
 ---
-title: Krosierosie.Github.Io
+title: Keagan's Life
 timezone: UTC
 collections:
   posts:
@@ -11,10 +11,16 @@ collections:
   portfolio:
     title: portfolio
     output: true
-
-
 defaults:
-    scope:
-      type: "portfolio"
-    values:
-      Teaser image:
+- scope:
+    path: ''
+    type: posts
+  values:
+    layout: post
+    permalink: "/posts/:title/"
+- scope:
+    path: ''
+    type: pages
+  values:
+    layout: page
+permalink: pretty

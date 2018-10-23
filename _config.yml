@@ -23,4 +23,9 @@ defaults:
     type: pages
   values:
     layout: page
+- scope:
+    path: ''
+    type: portfolio
+  values:
+    Teaser image:    
 permalink: pretty

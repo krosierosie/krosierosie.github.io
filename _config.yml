@@ -27,5 +27,5 @@ defaults:
     path: ''
     type: portfolio
   values:
-    Teaser image:    
+    Teaser image: 
 permalink: pretty

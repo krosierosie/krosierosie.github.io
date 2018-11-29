@@ -35,10 +35,9 @@ defaults:
     path: ''
     type: projects
   values:
-    layout: project
-    subtitle: 
+    layout: project 
     featured_image: 
-    excerpt: 
+    excerpt:
 site: Keagan's Life
 markdown: kramdown
 kramdown:

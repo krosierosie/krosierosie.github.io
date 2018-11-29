@@ -1,6 +1,7 @@
 ---
 title: project d
 date: 2018-11-29 00:18:00 -08:00
+position: 3
 Teaser image: "/uploads/preserveteaser.JPG"
 ---
 

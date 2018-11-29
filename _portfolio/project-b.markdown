@@ -1,6 +1,7 @@
 ---
 title: Project b
 date: 2018-11-28 23:47:00 -08:00
+position: 1
 Teaser image: "/uploads/videoteaser.JPG"
 ---
 

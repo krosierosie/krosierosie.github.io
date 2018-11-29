@@ -1,5 +1,5 @@
 ---
-title: Web 3 Theme
+title: Keagan's Life
 timezone: UTC
 collections:
   pages:
@@ -39,7 +39,7 @@ defaults:
     subtitle: 
     featured_image: 
     excerpt: 
-site: Web 3 Theme
+site: Keagan's Life
 markdown: kramdown
 kramdown:
   input: GFM
